@@ -7,7 +7,7 @@
 # # [MMA 869]
 # # [2020-08-08]
 
-# # Answer to Question [1], Part [a]
+# # Perform a k-mean clustering analysis of the dataset. 
 
 # In[ ]:
 
